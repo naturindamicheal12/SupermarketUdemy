@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "706175191690",
+    "firebase_url": "https://letschat-2bffb.firebaseio.com",
+    "project_id": "letschat-2bffb",
+    "storage_bucket": "letschat-2bffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706175191690:android:d661806a2d12bf33",
+        "android_client_info": {
+          "package_name": "com.kimyasin.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706175191690-ljgb6geak6c84rqb391muff066stbeho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimyasin.letschat",
+            "certificate_hash": "50e519d954659cd2151074648f363a130a53633c"
+          }
+        },
+        {
+          "client_id": "706175191690-eep4pjmliv8er4s4arb0mcu5kb5v2f3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB195DIr5vq3I-5olThHuJ3xu2fSKaA5Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706175191690-eep4pjmliv8er4s4arb0mcu5kb5v2f3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706175191690:android:c0a38e8f6b55f84e",
+        "android_client_info": {
+          "package_name": "com.kimyasin.letschat.startup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706175191690-eep4pjmliv8er4s4arb0mcu5kb5v2f3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB195DIr5vq3I-5olThHuJ3xu2fSKaA5Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706175191690-eep4pjmliv8er4s4arb0mcu5kb5v2f3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706175191690:android:4641c0b8fb1530c5",
+        "android_client_info": {
+          "package_name": "com.kimyasin.smssupermarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706175191690-ti9j9ep8p4917qrofim5eta8gcs842bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimyasin.smssupermarket",
+            "certificate_hash": "50e519d954659cd2151074648f363a130a53633c"
+          }
+        },
+        {
+          "client_id": "706175191690-eep4pjmliv8er4s4arb0mcu5kb5v2f3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB195DIr5vq3I-5olThHuJ3xu2fSKaA5Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706175191690-eep4pjmliv8er4s4arb0mcu5kb5v2f3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
